@@ -28,3 +28,7 @@ I modified the [step function](https://github.com/Vi-eng/udacity_ml_project4/blo
 
 I also tried to visualize the results of the multiclass model.
 ![download](https://github.com/Vi-eng/udacity_ml_project4/assets/68657918/9a21a56c-5fe1-492f-9cf9-a2ad61ce0739)
+
+
+Special thanks to my session lead, Lamia Hassan Mohammed Zain for helping me get through this project.
+During the course of this project I utilized various resouorces such as the AWS Docs and other coding websites like [GeeksforGeeks](https://www.geeksforgeeks.org/change-font-size-in-matplotlib/), [Stackoverflow](https://stackoverflow.com/questions/49637615/getting-started-with-step-functions-and-i-cant-get-choice-to-work-correctly) and [Web3Schools](https://www.w3schools.com/python/matplotlib_scatter.asp) in addition to the content on our Udacity classrooms and Slack channels
